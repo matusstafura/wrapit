@@ -2,6 +2,7 @@ local M = {}
 
 -- TODO
 -- make this configurable a -> target, title, etc; img -> alt, title, etc
+-- http://www.vim.org/scripts/script.php?script_id=4730
 -- refactor
 
 M.tag = function(type, string)
